@@ -37,6 +37,8 @@ color: #fff;
     font-size: 8vmin;
     color: #541210;
     background-color: #7a876b;
+    padding-left: 7px;
+   padding-top: 7px;
   }
   
   #reset-btn {
